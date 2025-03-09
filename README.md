@@ -11,6 +11,20 @@ SpamTools.org is an online platform that offers a variety of tools and services 
 - **cPanels/Shells** - Access to control panels and web shells for hosting scam pages and bots.
 - **SMTPs & Letters** - Latest undetected spamming tools available.
 
+## 🔹 Dedicated User Panel - [Manage Everything Here](https://spamtools.org/userpanel)
+
+SpamTools.org provides a **fully featured user panel** that allows customers to **manage their tools, subscriptions, and access free resources**.  
+
+### **User Panel Features**
+- **Dashboard Overview:** Track remaining credits, order history, and tool usage.
+- **Shop & Orders:** Purchase premium services, SMTPs, cPanels, and scampages directly.
+- **Email & Number Checkers:** Verify emails and phone numbers in real-time.
+- **SpamKit Tools:** Includes free email senders and email sorting tools.
+- **Data & History:** Monitor credit usage, transaction history, and order status.
+- **Quick Contact Support:** Direct access to **Telegram, Email, and Website Support**.
+
+📌 **Get started now**: [User Panel](https://spamtools.org/userpanel)  
+
 ## Membership Plans
 
 ### Platinum ($700/Month)
@@ -51,8 +65,10 @@ SpamTools.org claims a customer base of over 1,500 active users and offers:
 
 ## Contact Information
 
+- **Website:** [SpamTools](https://spamtools.org)  
 - **Email:** support@spamtools.org  
 - **Telegram:** [@spamtoolsorg](https://t.me/spamtoolsorg)  
 - **Official Telegram Channel:** [@spamtoolsupdate](https://t.me/spamtoolsupdate)
 - **More Links:** [Linktree](https://linktr.ee/spamtools)  
 
+---
